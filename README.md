@@ -1,5 +1,5 @@
 # git-commands
-list of git commands
+##list of git commands
 
 # check the git user name and set new user name
 git config --global user.name // 'user name'
