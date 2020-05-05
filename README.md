@@ -23,4 +23,5 @@ git remote remove origin
 # change to another origin 
 git remote add origin "url"
 
-
+# Prettier settings
+esbenp.prettier-vscode
