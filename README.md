@@ -26,7 +26,7 @@ git remote add origin "url"
 # Prettier settings
 esbenp.prettier-vscode
 
-# delte remote branch
+# delete remote branch
 git push -d origin <branch_name>
 
 # delete local branch
